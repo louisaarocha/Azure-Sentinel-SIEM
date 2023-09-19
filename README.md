@@ -3,7 +3,8 @@
 ---
 
 ## Project Summary 
-- In this project, I demonstrated the setup of Azure Sentinel, a cloud-based Security Information and Event Management (SIEM) system, integrated with a live virtual machine functioning as a honeypot. This hands-on tutorial showcased real-time cyberattacks, specifically RDP Brute Force attacks, originating from various global locations.
+
+In this project, I demonstrated the setup of Azure Sentinel, a cloud-based Security Information and Event Management (SIEM) system, integrated with a live virtual machine functioning as a honeypot. This hands-on tutorial showcased real-time cyberattacks, specifically RDP Brute Force attacks, originating from various global locations.
 
 ## Project Overview 
 
