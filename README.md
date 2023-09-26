@@ -15,6 +15,21 @@ This project sets up an Azure Virtual Machine (VM) as a honeypot to attract pote
 - Established a Log Analytics Workspace in Azure to serve as a centralized log repository for ingesting VM security logs.
 - Employed a custom PowerShell script to extract IP addresses from Windows logs and sent them to a third-party API for geolocation data retrieval, including latitude, longitude, state, and province.
 - Deployed Azure Sentinel, Microsoft's native SIEM solution, within Azure, allowing visualization of attack data on a geographical map.
+
+## Skills Demonstrated 
+- Azure Infrastructure Setup
+- Honeypot Implementation
+- Security Log Analysis
+- Geolocation Data Retrieval
+- Azure Sentinel Configuration
+- Real-Time Cyberattack Monitoring
+- Data Visualization
+- Cloud Security
+- Cybersecurity Awareness
+- Scripting and Automation
+- Intrusion Detection
+- Threat Intelligence
+- Incident Response
   
 ## Project Steps
 
